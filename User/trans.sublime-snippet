@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+<trans-unit id="${1}">
+    <source>${2}</source>
+    <target>${3}</target>
+</trans-unit>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>trans</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

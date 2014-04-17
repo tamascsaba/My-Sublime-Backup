@@ -1,0 +1,28 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"color_scheme": "Packages/User/Flatland Dark (SL).tmTheme",
+	"flatland_square_tabs": false,
+	"font_size": 13,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"SublimeCodeIntel",
+		"Vintage",
+		"GotoOpenFile",
+		"SideBarEnhancements"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"tab_size": 4,
+	"tabs_small": true,
+	"theme": "Flatland Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

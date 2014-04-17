@@ -1,0 +1,13 @@
+<snippet>
+   <content><![CDATA[(function(window, undefined) {
+    "use strict";
+
+    var ${1} = ${2};
+
+}(window));
+]]></content>
+   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+   <tabTrigger>a</tabTrigger>
+   <!-- Optional: Description to show in the menu -->
+   <description>Anonymous self-executing function</description>
+</snippet>

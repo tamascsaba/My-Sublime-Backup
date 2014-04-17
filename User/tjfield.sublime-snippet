@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+<div class="field">
+    <?php echo \$view['form']->errors(\$form['email']); ?>
+    <div class="input input-icon required icon-plane">
+        <?php echo \$view['form']->widget(\$form['email'], [
+           'attr' => array(
+                'placeholder' =>  \$view['translator']->trans('placeholder.prenewpassword.email')  
+           ),
+        ]); ?>
+    </div>
+</div>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <!-- <tabTrigger>hello</tabTrigger> -->
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

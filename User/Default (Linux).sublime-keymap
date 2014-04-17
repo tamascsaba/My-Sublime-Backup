@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+shift+x"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+c"], "command": "toggle_comment", "args": { "block": true } },
+	{ "keys": ["ctrl+j"], "command": "reveal_in_side_bar" },
+    { "keys": ["ctrl+alt+f"], "command": "use_it" }
+]

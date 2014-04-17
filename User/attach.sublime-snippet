@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * [${1}]
+ * @type {Object}
+ */
+${4} = {
+    initialize: function(\$element) {
+        this.\$element = \$element;
+        ${5}
+    }
+};
+vc.attach('${2}', '${3}', ${4}, {eager: true});
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>attach</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>
